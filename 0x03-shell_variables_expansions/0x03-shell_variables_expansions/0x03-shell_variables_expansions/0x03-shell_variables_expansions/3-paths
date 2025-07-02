@@ -1,0 +1,13 @@
+#!/bin/bash
+# Tunga PATH mu byiciro hakoreshejwe colon (:)
+IFS=':' read -ra dirs <<< "$PATH"
+
+count=0
+for dir in "${dirs[@]}"
+do
+  if [ -d "$dir" ]; then
+    count=$((count + 1))
+  fi
+done
+
+echo "$count"
