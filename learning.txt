@@ -1,1 +1,1 @@
-In this course, I have learned how to use Git and GitHub to manage code, track changes, and collaborate with others efficiently. I now understand how version control systems work and how to commit, push, and pull changes.
+What I have learned from this course, I have learned how to use Git and GitHub to manage code, track changes, and collaborate with others efficiently. I now understand how version control systems work and how to commit, push, and pull changes.
